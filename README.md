@@ -2,7 +2,7 @@
 
 A real-time distance estimation system for e-bikes using the **Fine Time Measurement (FTM)** protocol on ESP32-S3 microcontrollers. Developed as a Bachelor's thesis at Halmstad University (2025).
 
-> **Authors:** Jimmy Ly & William Ondrejov
+> **Authors:** William Ondrejov & Jimmy Ly
 
 ---
 
